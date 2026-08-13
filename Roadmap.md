@@ -9,4 +9,4 @@
 
 # Comando inicial
 
-- [ ] Comando de bem vindos
+- [x] Comando de bem vindos
