@@ -1,12 +1,12 @@
 # Base inicial
--[x] Fazer bot ligar.
+- [x] Fazer bot ligar.
 
--[x] Json para ocultar a token
+- [x] Json para ocultar a token
 
--[x] Cog para comando de ping/pong
+- [x] Cog para comando de ping/pong
 
--[x] Começar com comando slash
+- [x] Começar com comando slash
 
-# Comando inicial
+# Comando inicial cru
 
 - [x] Comando de bem vindos
