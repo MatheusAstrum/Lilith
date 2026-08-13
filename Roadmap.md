@@ -8,3 +8,5 @@
 -[x] Começar com comando slash
 
 # Comando inicial
+
+- [ ] Comando de bem vindos
