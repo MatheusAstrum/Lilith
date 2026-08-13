@@ -10,3 +10,4 @@
 # Comando inicial cru
 
 - [x] Comando de bem vindos
+- [ ] 
