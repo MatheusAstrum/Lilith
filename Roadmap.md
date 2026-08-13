@@ -5,4 +5,6 @@
 
 -[x] Cog para comando de ping/pong
 
--[ ] Começar com comando slash
+-[x] Começar com comando slash
+
+# Comando inicial
