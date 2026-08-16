@@ -18,6 +18,22 @@ class Admin(commands.Cog):
     @commands.has_permissions(administrator=True)
     async def banir(self, interaction: discord.Interaction, member: discord.Member):
         await member.ban(reason="banido")
-        await interaction.response.send_message(f"Usuário {member.mention} banido.")
+        await Interaction.response.send_message(f"Usuário {member.mention} banido.")
+
+    @commands.command()
+    @commands.has_permissions(administrator=True)
+    async def kickar(self, ctx, member: discord.Member):
+
+        await member.kick(reason="kickado")
+        await ctx.send(f"Membro {member.mention} expulso.")
+
+
+    @app_commands.command(name="kick", description="kicka um usuário")
+    @commands.has_permissions(administrator=True)
+    async def kick(self, interaction: discord.Interaction, member: discord.Member):
+
+        await member.kick(reason="kickado")
+        await interaction.response.send_message(f"Usuario {member.mention} expulso.")
+    
 async def setup(bot):
     await bot.add_cog(Admin(bot))
