@@ -16,4 +16,8 @@
 
 # Ideias
 
+- [ ] Musica
 - [ ] Economia global para waifu.
+- [ ] Avatar
+- [ ] Profile
+- [ ] Comando afk
