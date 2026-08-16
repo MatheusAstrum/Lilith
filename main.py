@@ -25,7 +25,7 @@ async def main():
         await bot.load_extension("cogs.ping")
         await bot.load_extension("cogs.entradas")
         await bot.load_extension("cogs.admin")
-
+        await bot.load_extension("cogs.user")
         await bot.start(TOKEN)
 
 asyncio.run(main())
