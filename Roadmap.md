@@ -11,3 +11,4 @@
 
 - [x] Comando de bem vindos
 - [x] Banir usuários
+- [x] Kickar usuários
