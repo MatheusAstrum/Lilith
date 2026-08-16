@@ -12,13 +12,12 @@
 - [x] Comando de bem vindos
 - [x] Banir usuários
 - [x] Kickar usuários
-
+- [x] Avatar
 
 # Ideias
 
 - [ ] Musica
 - [ ] Economia global para waifu.
-- [ ] Avatar
 - [ ] Profile
 - [ ] Comando afk
 - [ ] Ecomomia
