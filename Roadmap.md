@@ -12,3 +12,8 @@
 - [x] Comando de bem vindos
 - [x] Banir usuários
 - [x] Kickar usuários
+
+
+# Ideias
+
+- [ ] Economia global para waifu.
