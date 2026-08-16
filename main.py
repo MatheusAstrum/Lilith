@@ -23,6 +23,9 @@ async def on_ready():
 async def main():
     async with bot:
         await bot.load_extension("cogs.ping")
+        await bot.load_extension("cogs.entradas")
+        await bot.load_extension("cogs.admin")
+
         await bot.start(TOKEN)
 
 asyncio.run(main())
