@@ -4,14 +4,14 @@ versão atual: 0.0.6
 
 Adicionado:
 
-Incrementado comandos Slash;
+Incrementado comandos Slash
 
-Incrementado comando de ping;
+Incrementado comando de ping
 
-Incrementado evento de bem-vindo;
+Incrementado evento de bem-vindo
 
-Incrementado comando de banir;
+Incrementado comando de banir
 
-Cogs para separar;
+Cogs para separar
 
-Json para melhorar a ocultação do token;
+Json para melhorar a ocultação do token
