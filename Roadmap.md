@@ -10,4 +10,4 @@
 # Comando inicial cru
 
 - [x] Comando de bem vindos
-- [ ] 
+- [x] Banir usuários
