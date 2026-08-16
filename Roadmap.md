@@ -21,3 +21,5 @@
 - [ ] Avatar
 - [ ] Profile
 - [ ] Comando afk
+- [ ] Ecomomia
+- [ ] Daily 
