@@ -1,8 +1,10 @@
 Lilith bot para o discord.
 
-versão atual: 0.0.7
+versão atual: 0.0.8
 
 Adicionado:
+
+Comando de avatar
 
 Adicionado comando de Kick
 
