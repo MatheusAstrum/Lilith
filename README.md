@@ -1,8 +1,10 @@
 Lilith bot para o discord.
 
-versão atual: 0.0.8
+versão atual: 0.0.9
 
 Adicionado:
+
+Comando ship
 
 Comando de avatar
 
