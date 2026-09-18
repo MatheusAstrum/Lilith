@@ -13,7 +13,7 @@
 - [x] Banir usuários
 - [x] Kickar usuários
 - [x] Avatar
-- [ ] - Ship
+- [x] Ship
 
 # Ideias
 
